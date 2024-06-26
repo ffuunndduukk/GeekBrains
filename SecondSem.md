@@ -2,7 +2,7 @@
 
 
 ## Creating Branches 
-
+git branch - Выводит существующие ветки
 
 ## Merging Branches 
 
