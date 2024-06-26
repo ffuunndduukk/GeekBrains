@@ -1,5 +1,5 @@
 # Second Seminar
-
+13.06.24
 ## Creating branches
 git branch - просмотр всех веток (зеленая - на которой мы находимся)
 git branch branch_name - создать ветку
